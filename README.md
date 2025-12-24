@@ -52,6 +52,9 @@ Shows which apps are available for your selected distro, with instructions for u
 
 ## 📸 Screenshots 🖼️
 
+![](src/screenshots/1.png)
+![](src/screenshots/2.png)
+![](src/screenshots/3.png)
 
 
 
